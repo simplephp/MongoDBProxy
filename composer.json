@@ -1,0 +1,17 @@
+{
+    "name": "simplephp/mongo-db-proxy",
+    "description": "swoole mongo db proxy",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kevin",
+            "email": "askyiwang@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MongoDBProxy\\": "src/"
+        }
+    }
+}
